@@ -1,0 +1,20 @@
+header {
+    display: flex;
+}
+
+.header-logo {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.header-logo img{
+    width: 60px;
+}
+
+.header-info {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
